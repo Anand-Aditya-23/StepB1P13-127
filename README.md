@@ -1,1 +1,1 @@
-# StepB1P13-127 Hi this is a sam,ple +project of github how ot learn git commands
+# StepB1P13-127 Hi this is a sample project of github how ot learn git commands
